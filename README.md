@@ -1,4 +1,9 @@
 ## Hi there 👋
+# Xase Nexus 
+# free script leaked 
+# leaked speed
+# copy model 
+*** Free Script No prem ***
 
 <!--
 **Xanenexus/XaneNexus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
