@@ -5,6 +5,7 @@
 # copy model 
 *** Free Script No prem ***
 AA
+SCRIPT OFF SELL SCRIPT LEAK IN XASE NEXUS
 <!--
 **Xanenexus/XaneNexus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
