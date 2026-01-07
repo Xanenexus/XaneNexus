@@ -223,13 +223,7 @@ copyButton.MouseButton1Click:Connect(function()
 	if success then
 		status.Text = "✅ Game copied & saved."
 		log("✅Game copied successfully.")
-		log("✅leaked model.")
-		log("✅copy Asset game.")
-		log("🧩Working.")
-		log("❌Script.")
-		log("❌dataserver.")
     log("✅attackment.")
-    log("✅save in Xeno local file.")
     log("✅give file.")
     log("✅waiting.")
     log("✅Access Attachment")
